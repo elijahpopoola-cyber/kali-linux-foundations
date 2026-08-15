@@ -108,13 +108,9 @@ The command successfully displayed the contents of the current directory.
 
 ## 📸 Evidence
 
-A terminal screenshot was captured showing the commands and their outputs.
+The following screenshot shows the commands practiced during this lab:
 
-The screenshot should be stored in:
-
-```text
-screenshots/
-```
+![Lab 01 - Linux Terminal Basics](../screenshots/lab-01-terminal-basics.png)
 
 Before publishing screenshots publicly, sensitive information such as usernames, passwords, API keys, tokens, private keys, and other personal information should be removed or obscured.
 
