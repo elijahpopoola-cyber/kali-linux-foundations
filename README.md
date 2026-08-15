@@ -1,219 +1,119 @@
-# 🐧 Kali Linux Foundations
+# 🛡️ Kali Linux Foundations
 
-A beginner-friendly documentation of my **Kali Linux and cybersecurity foundation journey**.
+> A hands-on cybersecurity foundation learning journey focused on Linux, networking, security fundamentals, and the path toward cloud security.
 
-This repository contains my notes, commands, practical exercises, lab observations, screenshots, and lessons learned while building foundational Linux and cybersecurity skills.
+## 👋 About This Repository
 
-> **Learning status:** 🟢 Beginner — actively building practical skills
+This repository documents my practical cybersecurity learning journey as I build a strong technical foundation for a future career in **Cloud Security Engineering**.
 
----
+I am currently at the beginner stage, building my knowledge through:
 
-## 🎯 Learning Objectives
+- Linux and Kali Linux
+- Networking fundamentals
+- Cybersecurity concepts
+- Security tools
+- Practical labs
+- Technical documentation
+- Cloud security fundamentals
 
-Through this repository, I am developing the ability to:
+My approach is simple:
 
-* Navigate the Linux command line
-* Manage files and directories
-* Understand basic Linux system administration
-* Work with users, groups, and permissions
-* Monitor processes and system resources
-* Understand basic networking commands
-* Explore cybersecurity tools safely in a controlled lab environment
-* Document technical experiments clearly
-* Build confidence working from the Linux terminal
+**Learn → Practice → Document → Review → Improve**
 
 ---
 
-## 🧰 Environment
+## 🎯 Career Direction
 
-**Operating System:** Kali Linux
+**Target Role:** Cloud Security Engineer
 
-**Learning Environment:** Personal/controlled lab
+**Current Level:** Beginner
 
-**Primary Focus:** Linux + Cybersecurity Foundations
-
----
-
-## 📚 Topics Covered
-
-### 01 — Linux Command Line
-
-* Terminal basics
-* `pwd`
-* `whoami`
-* `hostname`
-* `date`
-* `clear`
-
-### 02 — Files & Directories
-
-* `ls`
-* `cd`
-* `mkdir`
-* `touch`
-* `cp`
-* `mv`
-* `rm`
-
-### 03 — Users & Identity
-
-* `whoami`
-* `id`
-* Users
-* Groups
-* Basic permissions
-
-### 04 — Processes
-
-* `ps`
-* `top`
-* `htop`
-* Understanding running processes
-
-### 05 — Package Management
-
-* `apt update`
-* `apt upgrade`
-* Installing packages
-* Removing packages
-
-### 06 — Networking Fundamentals
-
-* `ip a`
-* `ip link`
-* `ping`
-* `ss`
-* DNS tools
-
-### 07 — Nmap Fundamentals
-
-* Host discovery
-* Port scanning
-* Service detection
-* Basic OS detection
-* Scanning systems in an authorized lab
-
-### 08 — Services & Logs
-
-* `systemctl`
-* `journalctl`
-* `/var/log`
-* Understanding system activity
-
-### 09 — SSH Fundamentals
-
-* OpenSSH
-* Starting and stopping SSH
-* Understanding remote administration
-
-### 10 — Network Analysis
-
-* Wireshark
-* `tcpdump`
-* Netcat fundamentals
+**Primary Focus:** Cybersecurity Foundations → Cloud Security
 
 ---
 
-## 🧪 Practical Labs
+## 🐧 Current Learning Path
 
-| Lab    | Topic                       | Status        |
-| ------ | --------------------------- | ------------- |
-| Lab 01 | Linux Terminal Basics       | ✅ Completed   |
-| Lab 02 | File & Directory Management | ✅ Completed   |
-| Lab 03 | Users & Identity            | ✅ Completed   |
-| Lab 04 | Process Management          | ✅ Completed   |
-| Lab 05 | Package Management          | ✅ Completed   |
-| Lab 06 | Network Information         | ✅ Completed   |
-| Lab 07 | Connectivity Testing        | ✅ Completed   |
-| Lab 08 | Port & Service Discovery    | 🔄 Practicing |
-| Lab 09 | System Services & Logs      | 🔄 Practicing |
-| Lab 10 | Network Analysis            | 🔄 Practicing |
+### Kali Linux
 
----
+- Linux terminal fundamentals
+- Filesystem navigation
+- Files and directories
+- Users and permissions
+- Processes
+- Package management
+- Networking
+- Services
+- Logs
+- SSH
+- Network analysis
 
-## 🔐 Security & Ethics
+### Cybersecurity
 
-All security testing documented in this repository is performed against:
+- Security fundamentals
+- Network security
+- System security
+- Security monitoring
+- Security tools
+- Practical security labs
 
-* Systems I own
-* Systems I have explicit permission to test
-* Intentionally vulnerable training environments
-* Local or isolated lab environments
+### Cloud Security
 
-I do not use these techniques against unauthorized systems.
-
----
-
-## 📸 Evidence
-
-Where appropriate, I document my learning with:
-
-* Terminal screenshots
-* Command output
-* Lab results
-* Configuration examples
-* Observations
-* Lessons learned
-
-Sensitive information such as passwords, private keys, tokens, personal IP addresses, or other confidential information will not be published.
+- Cloud fundamentals
+- AWS fundamentals
+- Identity and Access Management
+- Cloud networking
+- Storage security
+- Logging and monitoring
+- Cloud security best practices
 
 ---
 
-## 🧠 What I'm Learning
+## 🧪 Hands-On Labs
 
-I'm not only learning commands.
+| Lab | Topic | Status |
+|---|---|---|
+| Lab 01 | Linux Terminal Basics | ✅ Completed |
+| Lab 02 | Linux Filesystem Navigation | ⬜ Planned |
+| Lab 03 | Users and Permissions | ⬜ Planned |
+| Lab 04 | Processes | ⬜ Planned |
+| Lab 05 | Networking Basics | ⬜ Planned |
 
-I'm working toward understanding:
+---
 
-**Command → Purpose → Output → Security Meaning → Practical Application**
+## 📚 Documentation
 
-For example:
-
-```text
-nmap
-  ↓
-Network scanning
-  ↓
-Identify reachable hosts/services
-  ↓
-Understand exposed attack surface
-  ↓
-Apply the knowledge in authorized security labs
-```
+| Section | Purpose |
+|---|---|
+| [`labs/`](labs/) | Practical cybersecurity exercises |
+| [`notes/`](notes/) | Learning notes and concepts |
+| [`screenshots/`](screenshots/) | Lab evidence |
+| [`resources/`](resources/) | Useful learning resources |
 
 ---
 
 ## 📈 Progress
 
-**Current Stage:**
+My learning progress is tracked in:
 
-`Linux Foundations → Networking → Cybersecurity → Cloud Security`
-
-### Current Focus
-
-* [x] Kali Linux basics
-* [x] Linux navigation
-* [x] File management
-* [x] Basic networking commands
-* [x] Nmap fundamentals
-* [ ] Deeper network analysis
-* [ ] Security-focused Linux administration
-* [ ] Cloud security foundations
-* [ ] Cloud security labs
-* [ ] Practical cloud security projects
+👉 [`notes/progress.md`](notes/progress.md)
 
 ---
 
-## 🚀 Next Steps
+## 🔐 Security & Ethics
 
-My next stage is to strengthen my cybersecurity foundation and begin connecting Linux and networking knowledge with **cloud security concepts**.
+All practical exercises in this repository are performed in controlled environments, personal labs, or systems where I have permission to test.
 
-Long-term goal:
-
-**☁️ Aspiring Cloud Security Engineer**
+This portfolio is intended for **ethical cybersecurity learning and professional development**.
 
 ---
 
-## 📌 Disclaimer
+## 🚀 Long-Term Goal
 
-This repository is a learning portfolio. Commands, techniques, and observations are documented for educational purposes and responsible security practice.
+Build strong cybersecurity fundamentals and progress toward becoming a **Cloud Security Engineer**, with practical experience in Linux, networking, security tools, cloud infrastructure, identity, monitoring, and defensive security.
+
+---
+
+## 📌 Portfolio Philosophy
+
+> **Don't just learn cybersecurity. Practice it, document it, and prove it.**
