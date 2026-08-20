@@ -88,8 +88,6 @@ Managing cloud-based Linux systems
 
 Understanding the filesystem also provides a foundation for later topics such as permissions, processes, logs, SSH, and security investigations.
 
-## 📸 Evidence
-
 The following screenshot shows the filesystem navigation commands practiced during this lab.
 
 ![Lab 02 - Linux Filesystem Navigation](../screenshots/lab-02-filesystem-navigation.png)
