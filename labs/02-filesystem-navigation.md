@@ -44,6 +44,7 @@ These skills provide a foundation for file permissions, processes, logs, SSH, se
 
 ![Lab 02 - Linux Filesystem Navigation](../screenshots/lab-02-filesystem-navigation.png)
 
+
 🧠 What I Learned
 
 This lab helped me understand how to navigate the Linux filesystem using the terminal.
