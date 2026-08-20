@@ -42,8 +42,9 @@ These skills provide a foundation for file permissions, processes, logs, SSH, se
 
 📸 Evidence
 
-![Lab 02 - Linux Filesystem Navigation](../screenshots/lab-02-filesystem-navigation.png)
+## 📸 Evidence
 
+[View Lab 02 Terminal Screenshot](../screenshots/lab-02-filesystem-navigation.png)
 
 🧠 What I Learned
 
