@@ -1,56 +1,58 @@
-# 📊 Cybersecurity Learning Progress
+# Cybersecurity Learning Progress
 
-My progress while building foundational Linux and cybersecurity skills with Kali Linux.
+This document tracks my hands-on learning progress as I build strong foundations in Linux, cybersecurity, networking, and cloud security.
 
-## 🐧 Kali Linux Foundation
+---
 
-| # | Topic | Status | Evidence |
-|---|---|---|---|
-| 01 | Terminal Basics | ✅ Completed | [Lab 01](../labs/01-terminal-basics.md) |
-| 02 | Linux Filesystem Navigation | ✅ Completed | [Lab 02](../labs/02-filesystem-navigation.md) |
-| 03 | Users & Identity | ⏳ Upcoming | — |
-| 04 | Processes | ⏳ Upcoming | — |
-| 05 | Package Management | ⏳ Upcoming | — |
-| 06 | Services & System Administration | ⏳ Upcoming | — |
-| 07 | Logs & Monitoring | ⏳ Upcoming | — |
-| 08 | SSH & Remote Access | ⏳ Upcoming | — |
+## Current Focus
 
-## 📈 Current Progress
+I am currently building practical skills in:
 
-**Completed:** 2 labs
-
-**Current Focus:** Linux and Kali Linux fundamentals
-
-**Next Focus:** Users & Identity
-
-## 🎯 Career Direction
-
-**Target Role:** Cloud Security Engineer
-
-**Current Level:** Beginner with basic cybersecurity knowledge
-
-**Primary Interest:** Cloud Security
-
-## 🧠 Skills Currently Building
-
-- Linux fundamentals
-- Kali Linux
-- Command-line navigation
-- Filesystem navigation
+- Linux system administration
+- Networking fundamentals
 - Cybersecurity fundamentals
-- Security-focused documentation
-- Technical portfolio development
+- Security monitoring
+- Cloud security
 
-## 🚀 Learning Approach
+---
 
-I am documenting my cybersecurity journey through:
+## Completed Labs
 
-- Hands-on labs
-- Command-line practice
-- Screenshots and evidence
-- Technical notes
-- Practical exercises
-- Progress tracking
-- Beginner-friendly documentation
+- [x] Lab 01 - Terminal Basics
+- [x] Lab 02 - Linux Filesystem Navigation
+- [x] Lab 03 - Linux User and Identity
+- [x] Lab 04 - Running Processes
 
-> The goal is consistent learning, practical experience, and gradually building the skills required for a career in cloud security.
+---
+
+## Next Learning Goals
+
+- [ ] File permissions and ownership
+- [ ] Linux services and system management
+- [ ] Log analysis
+- [ ] Networking fundamentals and troubleshooting
+- [ ] Network scanning with Nmap
+- [ ] Packet analysis with Wireshark
+
+---
+
+## Portfolio Development
+
+- [x] Create Kali Linux Foundations repository
+- [x] Document practical Linux labs
+- [x] Add screenshot evidence
+- [x] Create a README
+- [x] Add security and ethics statement
+- [x] Track learning progress
+- [x] Add portfolio highlights
+- [ ] Build a cybersecurity project
+
+---
+
+## Career Goal
+
+My long-term goal is to become a **Cloud Security Engineer**.
+
+I am building my skills consistently through hands-on practice, documentation, and projects.
+
+> Learning consistently. Practicing ethically. Building in public.
