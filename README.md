@@ -1,119 +1,97 @@
 # 🛡️ Kali Linux Foundations
 
-> A hands-on cybersecurity foundation learning journey focused on Linux, networking, security fundamentals, and the path toward cloud security.
+> A hands-on cybersecurity learning journey focused on Linux, Kali Linux, and building strong foundations for a future career in Cloud Security Engineering.
 
 ## 👋 About This Repository
 
-This repository documents my practical cybersecurity learning journey as I build a strong technical foundation for a future career in **Cloud Security Engineering**.
+This repository documents my practical cybersecurity learning journey as I build foundational technical skills through hands-on practice, documentation, and continuous learning.
 
-I am currently at the beginner stage, building my knowledge through:
+I am currently a beginner with some basic cybersecurity knowledge and am building toward a career in **Cloud Security Engineering**.
 
-- Linux and Kali Linux
-- Networking fundamentals
-- Cybersecurity concepts
-- Security tools
-- Practical labs
-- Technical documentation
-- Cloud security fundamentals
+My learning approach is:
 
-My approach is simple:
-
-**Learn → Practice → Document → Review → Improve**
+> **Learn → Practice → Document → Review → Improve**
 
 ---
 
 ## 🎯 Career Direction
 
-**Target Role:** Cloud Security Engineer
+- **Target Role:** Cloud Security Engineer
+- **Current Level:** Beginner with basic cybersecurity knowledge
+- **Primary Interest:** Cloud Security
+- **Current Focus:** Kali Linux and Linux fundamentals
 
-**Current Level:** Beginner
+---
 
-**Primary Focus:** Cybersecurity Foundations → Cloud Security
+## 🧪 Completed Hands-On Labs
+
+| Lab | Topic | Status |
+|---|---|---|
+| [Lab 01](labs/01-terminal-basics.md) | Linux Terminal Basics | ✅ Completed |
+| [Lab 02](labs/02-filesystem-navigation.md) | Linux Filesystem Navigation | ✅ Completed |
+| [Lab 03](labs/03-user-and-identity.md) | Linux User and Identity | ✅ Completed |
+| [Lab 04](labs/04-running-processes.md) | Running Processes | ✅ Completed |
 
 ---
 
 ## 🐧 Current Learning Path
 
-### Kali Linux
+### Kali Linux Foundations
 
-- Linux terminal fundamentals
-- Filesystem navigation
-- Files and directories
-- Users and permissions
-- Processes
-- Package management
-- Networking
-- Services
-- Logs
-- SSH
-- Network analysis
-
-### Cybersecurity
-
-- Security fundamentals
-- Network security
-- System security
-- Security monitoring
-- Security tools
-- Practical security labs
-
-### Cloud Security
-
-- Cloud fundamentals
-- AWS fundamentals
-- Identity and Access Management
-- Cloud networking
-- Storage security
-- Logging and monitoring
-- Cloud security best practices
+- [x] Linux terminal basics
+- [x] Filesystem navigation
+- [x] Users and identity
+- [x] Running processes
+- [ ] Package management
+- [ ] Networking fundamentals
+- [ ] Services and system administration
+- [ ] Logs and monitoring
+- [ ] SSH and remote access
+- [ ] Network analysis
 
 ---
 
-## 🧪 Hands-On Labs
+## 📁 Repository Structure
 
-| Lab | Topic | Status |
-|---|---|---|
-| Lab 01 | Linux Terminal Basics | ✅ Completed |
-| Lab 02 | Linux Filesystem Navigation | ⬜ Planned |
-| Lab 03 | Users and Permissions | ⬜ Planned |
-| Lab 04 | Processes | ⬜ Planned |
-| Lab 05 | Networking Basics | ⬜ Planned |
-
+```text
+kali-linux-foundations/
+│
+├── labs/          # Hands-on cybersecurity and Linux labs
+├── notes/         # Learning notes and progress tracking
+├── screenshots/   # Evidence from practical exercises
+├── resources/     # Useful learning resources
+└── README.md      # Repository overview
 ---
+📸 Practical Evidence
 
-## 📚 Documentation
+Each completed lab includes practical documentation and, where appropriate, screenshots showing the commands and exercises performed in a Kali Linux learning environment.
 
-| Section | Purpose |
-|---|---|
-| [`labs/`](labs/) | Practical cybersecurity exercises |
-| [`notes/`](notes/) | Learning notes and concepts |
-| [`screenshots/`](screenshots/) | Lab evidence |
-| [`resources/`](resources/) | Useful learning resources |
+The focus of this portfolio is to demonstrate consistent learning and practical progress, rather than simply collecting theoretical knowledge.
 
----
+🔐 Security & Ethics
 
-## 📈 Progress
+All activities documented in this repository are performed in controlled environments, personal learning labs, or systems where I have permission to practice.
 
-My learning progress is tracked in:
+This repository is intended for ethical cybersecurity learning and professional development.
 
-👉 [`notes/progress.md`](notes/progress.md)
+🚀 Long-Term Goal
 
----
+My goal is to build strong foundations in:
 
-## 🔐 Security & Ethics
+Linux and system administration
+Networking
+Cybersecurity fundamentals
+Security monitoring
+Identity and access management
+Cloud infrastructure
+Cloud security
 
-All practical exercises in this repository are performed in controlled environments, personal labs, or systems where I have permission to test.
+I am documenting my progress as I continue building toward becoming a Cloud Security Engineer.
 
-This portfolio is intended for **ethical cybersecurity learning and professional development**.
+📈 Progress
 
----
+My detailed learning progress is tracked in:
 
-## 🚀 Long-Term Goal
+👉 Cybersecurity Learning Progress
 
-Build strong cybersecurity fundamentals and progress toward becoming a **Cloud Security Engineer**, with practical experience in Linux, networking, security tools, cloud infrastructure, identity, monitoring, and defensive security.
-
----
-
-## 📌 Portfolio Philosophy
-
-> **Don't just learn cybersecurity. Practice it, document it, and prove it.**
+Don't just learn cybersecurity. Practice it, document it, and prove it.
