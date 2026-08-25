@@ -103,3 +103,46 @@ My detailed learning progress is tracked here:
 ---
 
 > **Don't just learn cybersecurity. Practice it, document it, and prove it.**
+---
+
+## 🛠️ Skills and Tools
+
+As a cybersecurity learner, I am building practical knowledge in the following areas:
+
+### Linux
+
+- Linux command line navigation
+- Files and directories
+- User and identity management
+- Process management
+- Basic system administration
+
+### Cybersecurity
+
+- Cybersecurity fundamentals
+- Security awareness and ethical practice
+- Basic security monitoring concepts
+- Hands-on learning in controlled environments
+
+### Networking
+
+- Networking fundamentals
+- IP addressing and network communication
+- Network service discovery
+
+### Tools
+
+- Kali Linux
+- Linux Terminal
+- GitHub
+- Nmap
+- Wireshark
+
+---
+
+## 🎯 Current Learning Focus
+
+I am currently building strong foundations in Linux, networking, and cybersecurity through practical labs and documentation.
+
+My long-term goal is to develop the skills required to work professionally as a **Cloud Security Engineer**.
+
