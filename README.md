@@ -53,7 +53,7 @@ My learning approach is:
 
 ## 📁 Repository Structure
 
-```text
+
 kali-linux-foundations/
 │
 ├── labs/          # Hands-on cybersecurity and Linux labs
@@ -61,6 +61,7 @@ kali-linux-foundations/
 ├── screenshots/   # Evidence from practical exercises
 ├── resources/     # Useful learning resources
 └── README.md      # Repository overview
+
 ## 📸 Practical Evidence
 
 Each completed lab includes practical documentation and, where appropriate, screenshots showing the commands and exercises performed in a Kali Linux learning environment.
