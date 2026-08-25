@@ -61,37 +61,44 @@ kali-linux-foundations/
 ├── screenshots/   # Evidence from practical exercises
 ├── resources/     # Useful learning resources
 └── README.md      # Repository overview
----
-📸 Practical Evidence
+## 📸 Practical Evidence
 
 Each completed lab includes practical documentation and, where appropriate, screenshots showing the commands and exercises performed in a Kali Linux learning environment.
 
-The focus of this portfolio is to demonstrate consistent learning and practical progress, rather than simply collecting theoretical knowledge.
+The focus of this portfolio is to demonstrate **consistent learning and practical progress**, rather than simply collecting theoretical knowledge.
 
-🔐 Security & Ethics
+---
+
+## 🔐 Security & Ethics
 
 All activities documented in this repository are performed in controlled environments, personal learning labs, or systems where I have permission to practice.
 
-This repository is intended for ethical cybersecurity learning and professional development.
+This repository is intended for **ethical cybersecurity learning and professional development**.
 
-🚀 Long-Term Goal
+---
+
+## 🚀 Long-Term Goal
 
 My goal is to build strong foundations in:
 
-Linux and system administration
-Networking
-Cybersecurity fundamentals
-Security monitoring
-Identity and access management
-Cloud infrastructure
-Cloud security
+- Linux and system administration
+- Networking
+- Cybersecurity fundamentals
+- Security monitoring
+- Identity and access management
+- Cloud infrastructure
+- Cloud security
 
-I am documenting my progress as I continue building toward becoming a Cloud Security Engineer.
+I am documenting my progress as I continue building toward becoming a **Cloud Security Engineer**.
 
-📈 Progress
+---
 
-My detailed learning progress is tracked in:
+## 📈 Progress
 
-👉 Cybersecurity Learning Progress
+My detailed learning progress is tracked here:
 
-Don't just learn cybersecurity. Practice it, document it, and prove it.
+👉 [Cybersecurity Learning Progress](notes/progress.md)
+
+---
+
+> **Don't just learn cybersecurity. Practice it, document it, and prove it.**
