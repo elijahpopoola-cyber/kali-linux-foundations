@@ -61,6 +61,28 @@ kali-linux-foundations/
 ├── screenshots/   # Evidence from practical exercises
 ├── resources/     # Useful learning resources
 └── README.md      # Repository overview
+---
+
+## ⭐ Portfolio Highlights
+
+This repository demonstrates my practical progress in building Linux and cybersecurity foundations.
+
+- 📚 Hands-on Linux labs with documented learning objectives
+- 💻 Practical command-line exercises
+- 📸 Screenshot evidence from my learning environment
+- 📝 Clear documentation of commands and concepts learned
+- 📈 Progress tracking to demonstrate continuous learning
+- 🔐 Ethical cybersecurity practice in controlled environments
+- ☁️ A growing foundation toward a career in Cloud Security
+
+---
+
+### 🚀 What I Am Building
+
+I am not only learning cybersecurity concepts. I am building practical experience by practicing, documenting, and improving my skills consistently.
+
+My goal is to develop a strong technical foundation and build projects that demonstrate my readiness for a future role in **Cloud Security**.
+
 
 ## 📸 Practical Evidence
 
